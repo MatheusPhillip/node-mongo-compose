@@ -5,7 +5,6 @@
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-    - [Running docker compose](#running-with-docker-compose)
 
 ## Overview
 
